@@ -1,0 +1,11 @@
+{
+  "name": "@figmatic/root",
+  "private": true,
+  "version": "0.1.0",
+  "author": "Nate Moore <nate@natemoo.re>",
+  "license": "MIT",
+  "repository": "git@github.com:figmatic-team/figmatic.git",
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
